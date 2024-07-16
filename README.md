@@ -17,7 +17,7 @@ This repository is a personal learning project, but contributions are welcome! I
 ## Connect with Me
 
 If you have any questions or would like to connect, you can reach me through the following platforms:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com)
-- **GitHub**: [Your GitHub Profile](https://github.com)
+- **LinkedIn**: [https://www.linkedin.com/in/ankit0501/](https://www.linkedin.com/in/ankit0501/)
+- **GitHub**: [https://github.com/ankitsinghhh](https://github.com/ankitsinghhh)
 
 Thank you for visiting my Backend Development Learning Repository. I hope you find it helpful and informative!
